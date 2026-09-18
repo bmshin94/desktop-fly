@@ -1,3 +1,24 @@
+# DesktopFly (DenisSergeevitch/desktop-fly)
+
+## 프로젝트 개요
+맥북 바탕화면 위를 자유롭게 날아다니며 마우스 커서를 졸졸 쫓아다니는 진짜 살아있는 듯한 "바탕화면 3D 초파리 디지털 펫"
+실제 곤충의 날갯짓과 생태 물리 법칙을 정교한 3D 그래픽으로 시뮬레이션하여 책상 위의 소소한 재미와 유쾌한 힐링을 선사
+삭막한 코딩 화면에 생동감을 불어넣고 동료 개발자들에게 신선한 웃음을 주는 귀여운 데스크톱 친구
+
+## 핵심 특징 & 추천 분야
+- 3D디지털펫
+- 바탕화면초파리
+- 물리시뮬레이션
+- 맥북힐링토이
+- 유쾌한데스크톱위젯
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # DesktopFly — agent notes
 
 A 3D fruit fly on a transparent macOS overlay, with a 668-neuron female
